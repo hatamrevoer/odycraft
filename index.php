@@ -184,7 +184,7 @@
     <!--FOOTER-->
     <div class="container text-center">
         <div class="h-100 p-1" style="color:black;background-color:#8E44AD;">
-            <h3>©COPYRIGHT BY ODYCRAFT ALL RESERVED❤️</h3>
+            <h3>©COPYRIGHT BY ODYCRAFT ALL RIGHT RESERVED❤️</h3>
                 
                 </div>
             </div>     
