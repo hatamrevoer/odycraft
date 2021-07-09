@@ -58,12 +58,12 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-danger">
         <div class="container-fluid">
             <a class="navbar-brand" href="#"><img src="img/Logo.png" title="odycraft" width="155"></a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation" style="margin-right:15px;">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
-                    <li class="nav-item" style="margin-left:15px;">
+                    <li class="nav-item">
                         <a class="nav-link active" aria-current="page" href="index.php"><b>BERANDA</b></a>
                     </li>
                     <li class="nav-item" style="margin-left:15px;">
@@ -86,7 +86,6 @@
     <!--END NAVBAR-->
 
     <!--JUMBOTRON-->
-    <div class="container-fluid">
         <div class="h-100 p-5 text-white bg-dark">
             <h2>Selamat datang! <button class="btn btn-primary" type="button" onclick="window.location.href = 'https://www.facebook.com/profile.php?id=100068514830286';">Silahkan bertanya disini!</button></h2>
             <p>Dan terima kasih anda telah berkunjung di forum ini!<br>Join minecraft copy alamat dan pastekan alamat server minecraftnya<br>Dibawah sini!<br>IP:<span class="blink">
@@ -157,8 +156,7 @@
     </div>
     <!-- END JUMBOTRON -->
     <!-- JUMBOTRON TENTANG -->
-    <section id="about">
-        <div class="container-fluid text-center">
+    <section id="about" class="text-center">
             <div class=" h-100 p-5 bg-success" style="color:black;">
                 <br><br><br><br><br><br><br><br><br><br><br>
                 <h2><u>TENTANG KAMI</u></h2>
@@ -170,8 +168,7 @@
     <!-- END JUMBOTRON TENTANG -->
 
     <!-- JUMBOTRON TRENDING -->
-    <section id="trending">
-        <div class="container-fluid text-center">
+    <section id="trending" class="text-center">
             <div class="h-100 p-5" style="color:white;background-color:#34495E;">
                 <br><br><br><br><br><br><br><br><br><br><br>
                 <h2><u>TRENDING</u></h2>
@@ -185,8 +182,7 @@
     <!-- END JUMBOTRON TRENDING -->
 
     <!-- JUMBOTRON DEVELOPER -->
-    <section id="developer">
-        <div class="container-fluid text-center">
+    <section id="developer" class="text-center">
             <div class="h-100 p-5" style="color:black;background-color:#148F77;">
                 <br><br><br><br><br><br><br><br><br><br><br>
                 <h2><u>Web developer & Web Design</u></h2>
@@ -202,7 +198,7 @@
     <!-- END JUMBOTRON DEVELOPER -->
 
     <!--FOOTER-->
-    <div class="container-fluid text-center">
+    <div class="text-center">
         <div class="h-100 p-1" style="color:black;background-color:#8E44AD;">
             <h3>©COPYRIGHT BY ODYCRAFT ALL RIGHT RESERVED❤️</h3>
 
